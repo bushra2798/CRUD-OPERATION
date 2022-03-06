@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-// import "./ProductItem.css";
 import { EmployeeItem } from "./EmployeeItem";
 import { getApiDetails, postApiDetails } from "./Services/apiServices";
 import { Button, Modal } from "react-bootstrap";
